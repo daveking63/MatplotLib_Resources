@@ -30,7 +30,7 @@ There are a wide variety of sources covering in various levels of detail the 'in
      <li>Code: Jupyter Notebook's found on Github at: https://github.com/PacktPublishing/Matplotlib-for-Python-Developers-Second-Edition</li>
     </ul>
   </li>
-  <li>Source: <a href="https://www.apress.com/us/book/9781484242452#otherversion=9781484242469">Numerical Python: Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib (2nd Edition)</a> by  Robert Johansson, Apress Publisher, 2019. Chapter 4 focuses on the use of matplotlib in generating and displaying the "plots and figures used to visualize results and data in scientific and technical disciplines, suc as line, bar, contour, colormap and 3D surface plots."
+  <li>Source: Chapter 4 of <a href="https://www.apress.com/us/book/9781484242452#otherversion=9781484242469">Numerical Python: Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib (2nd Edition)</a> by  Robert Johansson, Apress Publisher, 2019. Chapter 4 focuses on the use of matplotlib in generating and displaying the "plots and figures used to visualize results and data in scientific and technical disciplines, suc as line, bar, contour, colormap and 3D surface plots."
    <ul>
      <li>Code: found on Github at https://github.com/Apress/numerical-python-second-ed/blob/master/ch04-code-listing.ipynb</li>
      <li>Note: Complete code for the entire book is provided on the same Github site.</li>
