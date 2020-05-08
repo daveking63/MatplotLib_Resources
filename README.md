@@ -14,6 +14,14 @@ There are a wide variety of sources covering in various levels of detail the 'in
     <li>Code: Both the extensive <a href="https://matplotlib.org/gallery/index.html">gallery of examples<a> and the more in-depth <a href="https://matplotlib.org/tutorials/index.html">tutorial guides</a> provide downloadable zip files of Python code or Jupyter notebooks -- gallery_python.zip, gallery_jupyter.zip, tutorial _python.zip, and tutorial_jupyter.zip. This code can also be found on github/maptplotlib/matplotlib. Together they cover an enormous range of chart or plot types, as well as myriad of keyword and parameter setting.</li>
     </ul>
   </li>
+      
+<li>Source: The Scipy.Org Lectures covering various aspects of the core elements of the Scipy ecosystem. The Lectures can be found at http://scipy-lectures.org in both online, PDF, and github formats. Although Matplotlib is used throughout the Lectures, Section 1.5 of the lectures is devoted to Matplotlib and Section 16 also has heavy coverage of the library's capabilities (especially the use of figures with multiple subplots). 
+    <ul>
+    <li>Code: Associated programs are found on Github at https://github.com/scipy-lectures/scipy-lecture-notes/blob/master/intro/matplotlib/index.rst.</li>
+      <li>Note: Currently, creating a Jupyter notebook based on the notes and programs.</li>
+    </ul>
+  </li>      
+      
   <li>Source: Chapter 7 of <a href="https://www.apress.com/us/book/9781484239124#otherversion=9781484239131">Python Data Analysis with Pandas, Numpy and Matplotlib</a> by Fabio Nelli, Apress, 2018. Explores a range of chart types including: Line, Histogram, Bar, Pie, Countour, Polar, 3D Surfaces, Scatterplots in 3D, Barcharts in 3D, Subplots and Grids of Subplots.
     <ul>
     <li>Code: Jupyter Notebook found on Github at: https://github.com/meccanismocomplesso/python-data-analytics-2e/blob/master/Chapter%207%20-%20Data%20Visualization%20with%20matplotlib.ipynb. To access it in Jupyter's nbviewer use the following link: https://nbviewer.jupyter.org/github/meccanismocomplesso/python-data-analytics-2e/blob/master/Chapter%207%20-%20Data%20Visualization%20with%20matplotlib.ipynb</li>
@@ -51,7 +59,7 @@ There are a wide variety of sources covering in various levels of detail the 'in
     </ul>
 </li>
 
-<li>Source: Chapter 3 of <a href="https://www.packtpub.com/data/hands-on-exploratory-data-analysis-with-python">Hands-On Exploratory Data Analysis with Python</a> By Suresh Kumar Mukhiya, Usman Ahmed, Packt Publishing, 2020. Practice graphical exploratory analysis techniques using Matplotlib and the Seaborn Python package.
+<li>Source: Chapter 3 of <a href="https://www.packtpub.com/data/hands-on-exploratory-data-analysis-with-python">Hands-On Exploratory Data Analysis with Python</a> By Suresh Kumar Mukhiya, Usman Ahmed, Packt Publishing, 2020. Practice graphical exploratory analysis techniques using Matplotlib and the Seaborn Python package. Covers Line, Bar, Scatter, Bubble, Area and Stacked, Pie, Table Chart, Polar, Histogram and Lollipop plots.
   <ul>
     <li>Code: found on Github at https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python/blob/master/Chapter%202/Chapter_2_EDA.ipynb. To access it in Jupyter's nbviewer use the following link: https://nbviewer.jupyter.org/github/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python/blob/master/Chapter%202/Chapter_2_EDA.ipynb.
     </li>
