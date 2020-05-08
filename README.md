@@ -9,7 +9,7 @@ There are a wide variety of sources covering in various levels of detail the 'in
 <h3>Sources:</h3>
 
 <ul>
-  <li>Source: <a href="http://matplotlib.org">Matplotlib.org's</a> user's guide, gallery, and tutorials. This is the group responsible for developing and maintaining the librar/package.
+  <li>Source: <a href="http://matplotlib.org">Matplotlib.org's</a> user's guide, gallery, and tutorials. This is the group responsible for developing and maintaining the library/package.
     <ul>
     <li>Code: Both the extensive <a href="https://matplotlib.org/gallery/index.html">gallery of examples<a> and the more in-depth <a href="https://matplotlib.org/tutorials/index.html">tutorial guides</a> provide downloadable zip files of Python code or Jupyter notebooks -- gallery_python.zip, gallery_jupyter.zip, tutorial _python.zip, and tutorial_jupyter.zip. This code can also be found on github/maptplotlib/matplotlib. Together they cover an enormous range of chart or plot types, as well as myriad of keyword and parameter setting.</li>
     </ul>
@@ -35,5 +35,10 @@ There are a wide variety of sources covering in various levels of detail the 'in
      <li>Code: found on Github at https://github.com/Apress/numerical-python-second-ed/blob/master/ch04-code-listing.ipynb</li>
      <li>Note: Complete code for the entire book is provided on the same Github site.</li>
    </ul>
-   </li>
+   </li>   
+  <li>Source: <a href="https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python">Matplotlib Tutorial: Python Plotting</a> by Karlijn Willems, Dec 2019. Tutorial covers the basics Python data visualization including: anatomy of a Matplotlib plot; plot creation; plotting routines; basic plot customizations; saving, showing and clearing plots; and customizing plots.
+    <ul>
+      <li>Code: Interactive code is provided within the tutorial.</li>
+    </ul>
+  </li>
 </ul>
