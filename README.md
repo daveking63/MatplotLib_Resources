@@ -38,7 +38,7 @@ There are a wide variety of sources covering in various levels of detail the 'in
    </li>   
   <li>Source: <a href="https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python">Matplotlib Tutorial: Python Plotting</a> by Karlijn Willems, Dec 2019. Tutorial covers the basics Python data visualization including: anatomy of a Matplotlib plot; plot creation; plotting routines; basic plot customizations; saving, showing and clearing plots; and customizing plots.
     <ul>
-      <li>Code: Interactive code is provided within the tutorial. Additionally, Datacamp.com provides a Matplotlib <a href="https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pd">'cheat sheet'</a> summarizing much of the discussion in the tutorial.</li>
+      <li>Code: Interactive code is provided within the tutorial. Additionally, Datacamp.com provides a Matplotlib <a href="https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet">'cheat sheet'</a> summarizing much of the discussion in the tutorial.</li>
     </ul>
   </li>
 </ul>
