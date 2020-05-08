@@ -30,14 +30,33 @@ There are a wide variety of sources covering in various levels of detail the 'in
      <li>Code: Jupyter Notebooks found on Github at: https://github.com/PacktPublishing/Matplotlib-for-Python-Developers-Second-Edition</li>
     </ul>
   </li>
+      
   <li>Source: Chapter 4 of <a href="https://www.apress.com/us/book/9781484242452#otherversion=9781484242469">Numerical Python: Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib (2nd Edition)</a> by  Robert Johansson, Apress Publisher, 2019. Chapter 4 focuses on the use of matplotlib in generating and displaying the "plots and figures used to visualize results and data in scientific and technical disciplines, suc as line, bar, contour, colormap and 3D surface plots."
    <ul>
      <li>Code: found on Github at https://github.com/Apress/numerical-python-second-ed/blob/master/ch04-code-listing.ipynb. To access it in Jupyter's nbviewer use the following link: https://nbviewer.jupyter.org/github/Apress/numerical-python-second-ed/blob/master/ch04-code-listing.ipynb</li>
-     <li>Note: Complete code for the entire book is provided on the same Github site.</li>To access it in Jupyter's nbviewer use the following link: https://nbviewer.jupyter.org/github/
-   </li>   
+     <li>Note: Complete code for the entire book is provided on the same Github site. To access it in Jupyter's nbviewer use the following link: https://nbviewer.jupyter.org/github/Apress/numerical-python-second-ed/blob/master/ch04-code-listing.ipynb
+   </li>
+   </ul>
+  </li>
+  
   <li>Source: <a href="https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python">Matplotlib Tutorial: Python Plotting</a> by Karlijn Willems, Dec 2019. Tutorial covers the basics Python data visualization including: anatomy of a Matplotlib plot; plot creation; plotting routines; basic plot customizations; saving, showing and clearing plots; and customizing plots.
     <ul>
       <li>Code: Interactive code is provided within the tutorial. Additionally, Datacamp.com provides a Matplotlib <a href="https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet">'cheat sheet'</a> summarizing much of the discussion in the tutorial.</li>
     </ul>
   </li>
+  
+<li>Source: Chapter 13 of <a href="https://www.packtpub.com/programming/pandas-1-x-cookbook-second-edition">Pandas 1.x Cookbook: Practical recipes for scientific computing, time series analysis, and exploratory data analysis using Python, 2nd Edition</a> by Matt Harrison and Theodore Petrou, Packt Publishing, 2020.
+  <ul>
+    <li>Code: found on Github at https://github.com/PacktPublishing/Pandas-Cookbook-Second-Edition/blob/master/Chapter13/13-code.ipynb. To access it in Jupyter's nbviewer use the following link: https://nbviewer.jupyter.org/github/PacktPublishing/Pandas-Cookbook-Second-Edition/blob/master/Chapter13/13-code.ipynb.</li>
+    </ul>
+</li>
+
+<li>Source: Chapter 3 of <a href="https://www.packtpub.com/data/hands-on-exploratory-data-analysis-with-python">Hands-On Exploratory Data Analysis with Python</a> By Suresh Kumar Mukhiya, Usman Ahmed, Packt Publishing, 2020. Practice graphical exploratory analysis techniques using Matplotlib and the Seaborn Python package.
+  <ul>
+    <li>Code: found on Github at https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python/blob/master/Chapter%202/Chapter_2_EDA.ipynb. To access it in Jupyter's nbviewer use the following link: https://nbviewer.jupyter.org/github/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python/blob/master/Chapter%202/Chapter_2_EDA.ipynb.
+    </li>
+  </ul>
+</li>
+
+
 </ul>
