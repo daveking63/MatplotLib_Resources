@@ -25,4 +25,9 @@ There are a wide variety of sources covering in various levels of detail the 'in
     <li>Code: Jupyter Notebook found on Github at: https://github.com/PacktPublishing/Matplotlib-3.0-Cookbook.</li>
     </ul>
   </li>
+  <li>Source: <a href="https://www.packtpub.com/big-data-and-business-intelligence/matplotlib-python-developers-second-edition">Matplotlib for Python Developers - Second Edition</a> by Aldrin Yim, Claire Chung, Allen Yu. Packt Publishers, April 2018. Practical, hands-on resource to help you visualize data with Python using the Matplotlib library. Shows you how to create attractive graphs, charts, and plots using Matplotlib. Also, provides quick introduction to third-party packages, Seaborn, Pandas, Basemap, and Geopandas, and learn how to use them with Matplotlib.
+   <ul>
+     <li>Code: Jupyter Notebook's found on Github at: https://github.com/PacktPublishing/Matplotlib-for-Python-Developers-Second-Edition</li>
+    </ul>
+    </li>
 </ul>
