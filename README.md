@@ -11,7 +11,7 @@ There are a wide variety of sources covering in various levels of detail the 'in
 <ul>
   <li>Source: <a href="http://matplotlib.org">Matplotlib.org's</a> user's guide, gallery, and tutorials. This is the group responsible for developing and maintaining the librar/package.
     <ul>
-    <li>code: Both the extensive <a href="https://matplotlib.org/gallery/index.html">gallery of examples<a> and the more in-depth <a href="https://matplotlib.org/tutorials/index.html">tutorial guides</a> provide downloadable zip files of Python code or Jupyter notebooks -- gallery_python.zip, gallery_jupyter.zip, tutorial _python.zip, and tutorial_jupyter.zip. This code can also be found on github/maptplotlib/matplotlib. Together they cover an enormous range of chart or plot types, as well as myriad of keyword and parameter setting.</li>
+    <li>Code: Both the extensive <a href="https://matplotlib.org/gallery/index.html">gallery of examples<a> and the more in-depth <a href="https://matplotlib.org/tutorials/index.html">tutorial guides</a> provide downloadable zip files of Python code or Jupyter notebooks -- gallery_python.zip, gallery_jupyter.zip, tutorial _python.zip, and tutorial_jupyter.zip. This code can also be found on github/maptplotlib/matplotlib. Together they cover an enormous range of chart or plot types, as well as myriad of keyword and parameter setting.</li>
     </ul>
   </li>
   <li>Source: Chapter 7 of <a href="https://www.apress.com/us/book/9781484239124#otherversion=9781484239131">Python Data Analysis with Pandas, Numpy and Matplotlib</a> by Fabio Nelli, Apress, 2018. Explores a range of chart types including: Line, Histogram, Bar, Pie, Countour, Polar, 3D Surfaces, Scatterplots in 3D, Barcharts in 3D, Subplots and Grids of Subplots.
@@ -29,5 +29,11 @@ There are a wide variety of sources covering in various levels of detail the 'in
    <ul>
      <li>Code: Jupyter Notebook's found on Github at: https://github.com/PacktPublishing/Matplotlib-for-Python-Developers-Second-Edition</li>
     </ul>
-    </li>
+  </li>
+  <li>Source: <a href="https://www.apress.com/us/book/9781484242452#otherversion=9781484242469">Numerical Python: Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib (2nd Edition)</a> by  Robert Johansson, Apress Publisher, 2019. Chapter 4 focuses on the use of matplotlib in generating and displaying the "plots and figures used to visualize results and data in scientific and technical disciplines, suc as line, bar, contour, colormap and 3D surface plots."
+   <ul>
+     <li>Code: found on Github at https://github.com/Apress/numerical-python-second-ed/blob/master/ch04-code-listing.ipynb</li>
+     <li>Note: Complete code for the entire book is provided on the same Github site.</li>
+   </ul>
+   </li>
 </ul>
