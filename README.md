@@ -16,7 +16,7 @@ There are a wide variety of sources covering in various levels of detail the 'in
   </li>
   <li>Source: Chapter 7 of <a href="https://www.apress.com/us/book/9781484239124#otherversion=9781484239131">Python Data Analysis with Pandas, Numpy and Matplotlib</a> by Fabio Nelli, Apress, 2018. Explores a range of chart types including: Line, Histogram, Bar, Pie, Countour, Polar, 3D Surfaces, Scatterplots in 3D, Barcharts in 3D, Subplots and Grids of Subplots.
     <ul>
-    <li>Code: Jupyter Notebook found on Github at: https://github.com/meccanismocomplesso/python-data-analytics-2e/blob/master/Chapter%207%20-%20Data%20Visualization%20with%20matplotlib.ipynb</li>
+    <li>Code: Jupyter Notebook found on Github at: https://github.com/meccanismocomplesso/python-data-analytics-2e/blob/master/Chapter%207%20-%20Data%20Visualization%20with%20matplotlib.ipynb. To access it in Jupyter's nbviewer use the following link: https://nbviewer.jupyter.org/github/meccanismocomplesso/python-data-analytics-2e/blob/master/Chapter%207%20-%20Data%20Visualization%20with%20matplotlib.ipynb</li>
     <li>Note: Complete code for the entire book is provided on the same Github site.</li>
     </ul>
   </li>
@@ -27,14 +27,13 @@ There are a wide variety of sources covering in various levels of detail the 'in
   </li>
   <li>Source: <a href="https://www.packtpub.com/big-data-and-business-intelligence/matplotlib-python-developers-second-edition">Matplotlib for Python Developers - Second Edition</a> by Aldrin Yim, Claire Chung, Allen Yu. Packt Publishers, April 2018. Practical, hands-on resource to help you visualize data with Python using the Matplotlib library. Shows you how to create attractive graphs, charts, and plots using Matplotlib. Also, provides quick introduction to third-party packages, Seaborn, Pandas, Basemap, and Geopandas, and learn how to use them with Matplotlib.
    <ul>
-     <li>Code: Jupyter Notebook's found on Github at: https://github.com/PacktPublishing/Matplotlib-for-Python-Developers-Second-Edition</li>
+     <li>Code: Jupyter Notebooks found on Github at: https://github.com/PacktPublishing/Matplotlib-for-Python-Developers-Second-Edition</li>
     </ul>
   </li>
   <li>Source: Chapter 4 of <a href="https://www.apress.com/us/book/9781484242452#otherversion=9781484242469">Numerical Python: Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib (2nd Edition)</a> by  Robert Johansson, Apress Publisher, 2019. Chapter 4 focuses on the use of matplotlib in generating and displaying the "plots and figures used to visualize results and data in scientific and technical disciplines, suc as line, bar, contour, colormap and 3D surface plots."
    <ul>
-     <li>Code: found on Github at https://github.com/Apress/numerical-python-second-ed/blob/master/ch04-code-listing.ipynb</li>
-     <li>Note: Complete code for the entire book is provided on the same Github site.</li>
-   </ul>
+     <li>Code: found on Github at https://github.com/Apress/numerical-python-second-ed/blob/master/ch04-code-listing.ipynb. To access it in Jupyter's nbviewer use the following link: https://nbviewer.jupyter.org/github/Apress/numerical-python-second-ed/blob/master/ch04-code-listing.ipynb</li>
+     <li>Note: Complete code for the entire book is provided on the same Github site.</li>To access it in Jupyter's nbviewer use the following link: https://nbviewer.jupyter.org/github/
    </li>   
   <li>Source: <a href="https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python">Matplotlib Tutorial: Python Plotting</a> by Karlijn Willems, Dec 2019. Tutorial covers the basics Python data visualization including: anatomy of a Matplotlib plot; plot creation; plotting routines; basic plot customizations; saving, showing and clearing plots; and customizing plots.
     <ul>
