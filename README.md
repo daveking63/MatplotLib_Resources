@@ -11,7 +11,7 @@ There are a wide variety of sources covering in various levels of detail the 'in
 <ul>
   <li>Source: <a href="http://matplotlib.org">Matplotlib.org's</a> user's guide, gallery, and tutorials. This is the group responsible for developing and maintaining the library/package.
     <ul>
-    <li>Code: Both the extensive <a href="https://matplotlib.org/gallery/index.html">gallery of examples<a> and the more in-depth <a href="https://matplotlib.org/tutorials/index.html">tutorial guides</a> provide downloadable zip files of Python code or Jupyter notebooks -- gallery_python.zip, gallery_jupyter.zip, tutorial _python.zip, and tutorial_jupyter.zip. This code can also be found on github/maptplotlib/matplotlib. Together they cover an enormous range of chart or plot types, as well as myriad of keyword and parameter setting.</li>
+    <li>Code: Both the extensive <a href="https://matplotlib.org/gallery/index.html">gallery of examples<a> and the more in-depth <a href="https://matplotlib.org/tutorials/index.html">tutorial guides</a> provide downloadable zip files of Python code or Jupyter notebooks -- gallery_python.zip, gallery_jupyter.zip, tutorial _python.zip, and tutorial_jupyter.zip. This code can also be found on github/maptplotlib/matplotlib. Together they cover an enormous range of chart or plot types, as well as myriad of keyword and parameter settings.</li>
     </ul>
   </li>
       
@@ -67,9 +67,16 @@ There are a wide variety of sources covering in various levels of detail the 'in
 </li>
 
 <li>Source: <a href="https://realpython.com/python-matplotlib-guide">Python Plotting With Matplotlib (Guide)</a> by Brand Solomon. 2017.
-by Brad Solomon. This article mixes theory and practice, providing a beginner-to-intermediate-level overview of matplotlib library and delving into some of it's inner workings and layout. The discussion of subplots and visualizing arrays is especially helpful. Although this was written in 2017, the examples still work.
+This article mixes theory and practice, providing a beginner-to-intermediate-level overview of matplotlib library and delving into some of it's inner workings and layout. The discussion of subplots and visualizing arrays is especially helpful. Although this was written in 2017, the examples still work.
   <ul>
     <li>Code: Code snippets are contained in the article. A Jupyter notebook version of the code is in process.</li>
+  </ul>
+ </li>
+ 
+ <li> Source: <a href="https://www.scipy2019.scipy.org/tutorial/Introduction-to-Matplotlib">Introduction to Matplotlib SciPy 2019 Tutorial</a> by Hannah Aizenman and Thomas Caswell, 2019. Beginner's tutorial covering "most of the common types of data -- such as discrete, continuous and categorical, in 1D and 2D - using Matplotlib. In doing so, this tutorial will unpack some of the fundamental concepts that underlie the architecture of Matplotlib. Using these concepts, attendees will learn how to change the "look and feel" of plots. This tutorial is inspired by and steals liberally from Benjamin Root's fantastic 'Anatomy of Matplotlib'https://www.scipy2019.scipy.org/tutorial/Introduction-to-Matplotlibtutorial.
+<ul>
+<li>Code: Code is provided in a collection Juypter notebooks found on Github at: https://github.com/matplotlib/GettingStarted/tree/master/notebooks</li>
+<li>video: 3+ hour video of tutorial presentation on Youtube at: https://www.youtube.com/watch?v=Tr4DYo4v5AY</li>
   </ul>
  </li>
 </ul>
