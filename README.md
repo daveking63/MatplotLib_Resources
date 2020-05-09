@@ -4,7 +4,7 @@
 
 matplotlib is 'designed to reproduce as much as possible' the graphic capabilities of Mathwork's extremely popular <a href="https://www.mathworks.com/products/matlab.html">MATLAB</a>. This means that not only does it have extensive capabilities, but it is also relatively straight forward and simple to use. Essentially, charts can be constructed and embellished in a step-by-step fashion, making it relatively easy for first time users to grasp. Towards this end, matplotlib can also be used in an interactive fashion either in an IPython interactive Python shell or a Jupyter Notebook.
 
-There are a wide variety of sources covering in various levels of detail the 'introductory, intermediate, and advanced' features and function of matplotlib. This repository aims to summarize these sources, highlighting their contents and pointers to existing code and Jupyter notebooks. In those cases where notebooks are missing, I'll be provide summary notebooks (either running on the Jupyter nbviewer site or Colab).
+There are a wide variety of sources covering in various levels of detail the 'introductory, intermediate, and advanced' features and function of matplotlib. This repository aims to summarize these sources, highlighting their contents and pointers to existing code and Jupyter notebooks.
 
 <h3>Sources:</h3>
 
