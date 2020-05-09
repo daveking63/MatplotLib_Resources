@@ -66,7 +66,7 @@ There are a wide variety of sources covering in various levels of detail the 'in
   </ul>
 </li>
 
-<li>Source: <a href="https://realpython.com/python-matplotlib-guide">Python Plotting With Matplotlib (Guide)</a> by Brand Solomon. 2017.
+<li>Source: <a href="https://realpython.com/python-matplotlib-guide">Python Plotting With Matplotlib (Guide)</a> by Brad Solomon. 2017.
 This article mixes theory and practice, providing a beginner-to-intermediate-level overview of matplotlib library and delving into some of it's inner workings and layout. The discussion of subplots and visualizing arrays is especially helpful. Although this was written in 2017, the examples still work.
   <ul>
     <li>Code: Code snippets are contained in the article. A Jupyter notebook version of the code is in process.</li>
