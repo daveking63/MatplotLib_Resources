@@ -73,10 +73,17 @@ This article mixes theory and practice, providing a beginner-to-intermediate-lev
   </ul>
  </li>
  
- <li> Source: <a href="https://www.scipy2019.scipy.org/tutorial/Introduction-to-Matplotlib">Introduction to Matplotlib SciPy 2019 Tutorial</a> by Hannah Aizenman and Thomas Caswell, 2019. Beginner's tutorial covering "most of the common types of data -- such as discrete, continuous and categorical, in 1D and 2D - using Matplotlib. In doing so, this tutorial will unpack some of the fundamental concepts that underlie the architecture of Matplotlib. Using these concepts, attendees will learn how to change the "look and feel" of plots. This tutorial is inspired by and steals liberally from Benjamin Root's fantastic 'Anatomy of Matplotlib'https://www.scipy2019.scipy.org/tutorial/Introduction-to-Matplotlibtutorial.
+ <li> Source: <a href="https://www.scipy2019.scipy.org/tutorial/Introduction-to-Matplotlib">Introduction to Matplotlib SciPy 2019 Tutorial</a> by Hannah Aizenman and Thomas Caswell, 2019. Beginner's tutorial covering some of the fundamental concepts that underlie the architecture of Matplotlib along with plots that rest on "most of the common types of data -- such as discrete, continuous and categorical, in 1D and 2D..." This tutorial was inspired by and steals liberally from Benjamin Root's fantastic 'Anatomy of Matplotlib'.
 <ul>
 <li>Code: Code is provided in a collection Juypter notebooks found on Github at: https://github.com/matplotlib/GettingStarted/tree/master/notebooks</li>
 <li>video: 3+ hour video of tutorial presentation on Youtube at: https://www.youtube.com/watch?v=Tr4DYo4v5AY</li>
   </ul>
  </li>
-</ul>
+ 
+ <li>Source: <a href="https://scipy2017.scipy.org/ehome/220975/493418/index.html">Anatomy of Matplotlib SciPy 2017 Tutorial</a> by Ben Root, 2017. Introductory tutorial to Matplotlib, covering the basic types of plots along with Matplotlib's fundamental concepts and terminologies, as well as some of the toolkits used to extend the library.
+  <ul>
+  <li>Code: Collection of Jupyter notebooks found on Github at: https://github.com/matplotlib/AnatomyOfMatplotlib</li>
+  <li>Video: https://www.youtube.com/watch?v=rARMKS8jE9g</li>
+  </ul>
+</li>
+</li>
